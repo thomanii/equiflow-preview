@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:I[8202,["390","static/chunks/390-f77a6c884ec39cc3.js","977","static/chunks/app/contact/page-30525856f94f4960.js"],""]
+3:I[4487,["390","static/chunks/390-f77a6c884ec39cc3.js","977","static/chunks/app/contact/page-30525856f94f4960.js"],"Image"]
+4:I[1569,["390","static/chunks/390-f77a6c884ec39cc3.js","977","static/chunks/app/contact/page-30525856f94f4960.js"],"default"]
+5:I[4090,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[4090,[],"ViewportBoundary"]
+b:I[4090,[],"MetadataBoundary"]
+:HL["/equiflow-preview/_next/static/css/046641af947ed5ab.css","style"]
+:HL["/equiflow-preview/_next/static/css/1031fe1a4a8e513b.css","style"]
+9:X
+26:X
+26:C
+0:{"buildId":"5HqON0wmNiX0yfRFgq7wp","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"contact-page container","children":[[["$","nav",null,{"className":"breadcrumbs","aria-label":"Fil d’Ariane","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$L2",null,{"href":"/","children":"Accueil"}]}],["$","li","/contact",{"children":["$","span",null,{"aria-current":"page","children":"Prendre contact"}]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://thomanii.github.io/equiflow-preview/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Prendre contact\",\"item\":\"https://thomanii.github.io/equiflow-preview/contact\"}]}"}}]],["$","section",null,{"className":"PageHero_hero__f5bhw PageHero_withImage____rTC contact-page-hero","data-page-hero":true,"children":[["$","div",null,{"className":"PageHero_copy__5u6Jv","children":["$undefined",["$","h1",null,{"className":"PageHero_title__2Djd6","children":["Prenons le temps",["$","br",null,{}],["$","em",null,{"children":"d’échanger."}]]}],["$","p",null,{"className":"PageHero_intro__smUJP","children":"Pour plus de renseignements, n’hésitez pas à me contacter."}],["$","div",null,{"className":"PageHero_actions__Nd_lj","children":["$","div",null,{"className":"hero-actions","children":[["$","$L2",null,{"className":"button button-primary","href":"#formulaire","children":["Accéder au formulaire",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.5","aria-hidden":"true","children":["$","path",null,{"d":"M4 12h15m-6-6 6 6-6 6"}]}]]}],["$","$L2",null,{"className":"button button-secondary","href":"/accompagnements","children":["Découvrir les accompagnements",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.5","aria-hidden":"true","children":["$","path",null,{"d":"M4 12h15m-6-6 6 6-6 6"}]}]]}]]}]}]]}],["$","figure",null,{"className":"PageHero_visual__7r1Al","data-image":"cheval-bord-eau","children":[["$","$L3",null,{"src":"/equiflow-preview/images/cheval-bord-eau.webp","width":793,"height":595,"alt":"Une femme avec un cheval au bord d’un lac","sizes":"(max-width: 760px) 90vw, 46vw","preload":true,"className":"photo "}],"$undefined"]}]]}],["$","div",null,{"className":"contact-editorial-layout","children":[["$","aside",null,{"className":"contact-information","children":[["$","div",null,{"className":"contact-introduction","children":[["$","h2",null,{"children":["Vous n’avez pas à",["$","br",null,{}],"tout savoir avant de venir."]}],["$","p",null,{"children":"Un premier échange permet de partager votre demande, de poser vos questions et de préciser les conditions d’accueil."}]]}],["$","div",null,{"className":"contact-details","children":[["$","p",null,{"className":"contact-information-card","children":[["$","strong",null,{"children":"Véronique"}],"Équicoach et praticienne en médiation équine",["$","br",null,{}],"Villeneuve-d’Ascq, près de Lille"]}],["$","div",null,{"className":"contact-information-card","children":[["$","strong",null,{"children":"E-mail"}],["$","p",null,{"className":"pending-detail","children":"[À CONFIRMER AVEC VÉRONIQUE]"}]]}],["$","div",null,{"className":"contact-information-card","children":[["$","strong",null,{"children":"Téléphone"}],["$","p",null,{"className":"pending-detail","children":"[À CONFIRMER AVEC VÉRONIQUE]"}]]}]]}]]}],["$","div",null,{"id":"formulaire","className":"contact-form-panel","tabIndex":-1,"children":["$","$L4",null,{"enabled":false}]}]]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/equiflow-preview/_next/static/css/046641af947ed5ab.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/equiflow-preview/_next/static/css/1031fe1a4a8e513b.css","precedence":"next"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4e6d6"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Prendre contact avec Véronique | Equiflow près de Lille"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]}]}],"$L22"]}],"isPartial":"$@23","staleTime":"$9","varyParams":null},{"rsc":"$L24","isPartial":"$@25","staleTime":"$9","varyParams":"$26"}],"isUpgradeableISRFallback":false,"a":"$@27","rootVaryParams":null,"needsRuntimeRequest":"$@28"}
+29:I[255,[],"IconMark"]
+2a:I[2483,[],""]
+2b:I[7631,[],""]
+7:null
+c:["$","meta","1",{"name":"description","content":"Une question ou une demande d’accompagnement pour vous ou votre enfant ? Prenez contact avec Véronique pour échanger sur la médiation équine et l’équicoaching."}]
+d:["$","meta","2",{"name":"application-name","content":"Equiflow"}]
+e:["$","meta","3",{"name":"robots","content":"noindex, follow"}]
+f:["$","link","4",{"rel":"canonical","href":"https://thomanii.github.io/equiflow-preview/contact/"}]
+10:["$","meta","5",{"name":"format-detection","content":"telephone=no"}]
+11:["$","meta","6",{"property":"og:title","content":"Prendre contact avec Véronique | Equiflow près de Lille"}]
+12:["$","meta","7",{"property":"og:description","content":"Une question ou une demande d’accompagnement pour vous ou votre enfant ? Prenez contact avec Véronique pour échanger sur la médiation équine et l’équicoaching."}]
+13:["$","meta","8",{"property":"og:url","content":"https://thomanii.github.io/equiflow-preview/contact/"}]
+14:["$","meta","9",{"property":"og:site_name","content":"Equiflow"}]
+15:["$","meta","10",{"property":"og:locale","content":"fr_FR"}]
+16:["$","meta","11",{"property":"og:image","content":"https://thomanii.github.io/equiflow-preview/images/partage-equiflow.jpg"}]
+17:["$","meta","12",{"property":"og:image:width","content":"1200"}]
+18:["$","meta","13",{"property":"og:image:height","content":"630"}]
+19:["$","meta","14",{"property":"og:image:alt","content":"Equiflow — Retrouver le souffle avec les chevaux"}]
+1a:["$","meta","15",{"property":"og:type","content":"website"}]
+1b:["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}]
+1c:["$","meta","17",{"name":"twitter:title","content":"Prendre contact avec Véronique | Equiflow près de Lille"}]
+1d:["$","meta","18",{"name":"twitter:description","content":"Une question ou une demande d’accompagnement pour vous ou votre enfant ? Prenez contact avec Véronique pour échanger sur la médiation équine et l’équicoaching."}]
+1e:["$","meta","19",{"name":"twitter:image","content":"https://thomanii.github.io/equiflow-preview/images/partage-equiflow.jpg"}]
+1f:["$","link","20",{"rel":"icon","href":"/equiflow-preview/icon.svg"}]
+20:["$","link","21",{"rel":"apple-touch-icon","href":"/equiflow-preview/apple-icon.png"}]
+21:["$","$L29","22",{}]
+22:["$","meta",null,{"name":"next-size-adjust","content":""}]
+24:["$","$1","c",{"children":[null,["$","$L2a",null,{"parallelRouterKey":"children","template":["$","$L2b",null,{}]}]]}]
+28:true
+9:300
+9:C
+27:0
+23:"$undefined"
+25:"$undefined"
+8:"$undefined"

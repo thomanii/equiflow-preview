@@ -1,0 +1,6 @@
+:HC["/",""]
+:HL["/equiflow-preview/_next/static/css/10f1eb825f9ebbe6.css","style"]
+:HL["/equiflow-preview/_next/static/css/046641af947ed5ab.css","style"]
+:HL["/equiflow-preview/_next/static/css/56353fedd157b11a.css","style"]
+:HL["/equiflow-preview/_next/static/css/1031fe1a4a8e513b.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"ressources","param":null,"prefetchHints":4160,"slots":{"children":{"name":"article","param":{"type":"d","key":"mediation-equine-equicoaching-equitherapie","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"5HqON0wmNiX0yfRFgq7wp"}

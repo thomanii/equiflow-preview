@@ -1,0 +1,3 @@
+# Aperçu de validation Equiflow, non destiné à l'indexation.
+User-agent: *
+Disallow: /
